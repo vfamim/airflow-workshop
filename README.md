@@ -14,3 +14,6 @@ Alternatives:
 
 **Astronomer**
 It's a databricks of airflow
+
+**Astro-CLI**
+Create a enviroment ambient for dev with simple form
